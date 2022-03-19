@@ -32,7 +32,7 @@ li{
 }
 .left{
 	position: relative;
-	width: 163px;
+	width: 361px;
 	display: inline-block;
 }
 .cover1{
@@ -40,7 +40,7 @@ li{
 	margin-top: 28px;
 	margin-left: 40px;
 }
-.cover2{
+/*.cover2{
 	position: absolute;
 	margin-top: 28px;
 	margin-left: 40px;
@@ -61,4 +61,4 @@ display: inline-block;
 	width: 161px;
 	position: relative;
 
-}
+}*/
