@@ -1,0 +1,64 @@
+.container{
+	width: 1441px;
+	margin: 0 auto;
+	background-color: #fcfafa;
+}
+.header_logo{
+	display: inline-block;
+	width: 39px;
+	vertical-align: middle;
+	margin-right: 130px;
+	margin-left: 20px;
+}
+nav{
+	display: inline-block;
+
+}
+.girl_image{
+	display: inline-block;
+	vertical-align: middle;
+
+}
+li{
+	display: inline-block;
+	margin: 30px;
+	vertical-align: middle;
+}
+
+/*//section 1*/
+.container1{
+	width: 1061px;
+
+}
+.left{
+	position: relative;
+	width: 163px;
+	display: inline-block;
+}
+.cover1{
+	position: absolute;
+	margin-top: 28px;
+	margin-left: 40px;
+}
+.cover2{
+	position: absolute;
+	margin-top: 28px;
+	margin-left: 40px;
+}
+.cover3{
+	position: absolute;
+	margin-top: 28px;
+	margin-left: 40px;
+}
+.middle{
+	width: 161px;
+	display: inline-block;
+	position: relative;
+
+}
+.right{
+display: inline-block;
+	width: 161px;
+	position: relative;
+
+}
