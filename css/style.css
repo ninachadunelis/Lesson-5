@@ -1,7 +1,11 @@
-.container{
-	width: 1441px;
+.section-container-1{
+	width: 1160px;
 	margin: 0 auto;
+	margin-bottom: 40px;
+	margin-top: 25px;
 	background-color: #fcfafa;
+	position: relative;
+
 }
 .header_logo{
 	display: inline-block;
@@ -28,56 +32,33 @@ li{
 /*//section 1*/
 .container1{
 	width: 1061px;
-	height: 362px;
+	height: 410px;
 
+}
+h2{
+	margin-top: 40px;
 }
 /*surati iqneba relativi da naweri ikneba absoluti*/
 /*magram surati araa daxuruli bloki, amitom mchirdeba gamaertianebeli tavisi klasit*/
 /*da am klass mivanicheb relativs da teqsti ikneba absoluti*/
-.left{
+.box-right{
 	position: relative;
-	width: 361px;
+	width: 360px;
 	display: inline-block;
+	
 }
 .covertext{
 	position: absolute;
 	margin-top: 28px;
 	margin-left: 40px;
-}
-
-
-/*.middle{
-	width: 361px;
-	display: inline-block;
-	position: relative;
-}*/
-
-
-.right{
-	width: 161px;
-	position: relative;
-	display: inline-block;
-
-}
-.left1{
-	position: relative;
-	width: 361px;
-	display: inline-block;
-}
-.middle1{
-	position: relative;
-	width: 361px;
-	display: inline-block;
-
-}
-.right1{
-	position: relative;
-	width: 361px;
-	display: inline-block;
-
+	color: black;
+	font-size: 50;
 }
 .covertext1{
 	position: absolute;
-	margin-top: 28px;
+	margin-top: 245px;
 	margin-left: 40px;
+	color: black;
+		
 }
+
