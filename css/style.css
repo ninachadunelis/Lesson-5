@@ -28,37 +28,56 @@ li{
 /*//section 1*/
 .container1{
 	width: 1061px;
+	height: 362px;
 
 }
+/*surati iqneba relativi da naweri ikneba absoluti*/
+/*magram surati araa daxuruli bloki, amitom mchirdeba gamaertianebeli tavisi klasit*/
+/*da am klass mivanicheb relativs da teqsti ikneba absoluti*/
 .left{
 	position: relative;
 	width: 361px;
 	display: inline-block;
 }
-.cover1{
+.covertext{
 	position: absolute;
 	margin-top: 28px;
 	margin-left: 40px;
 }
-/*.cover2{
-	position: absolute;
-	margin-top: 28px;
-	margin-left: 40px;
-}
-.cover3{
-	position: absolute;
-	margin-top: 28px;
-	margin-left: 40px;
-}
-.middle{
-	width: 161px;
+
+
+/*.middle{
+	width: 361px;
 	display: inline-block;
 	position: relative;
+}*/
 
-}
+
 .right{
-display: inline-block;
 	width: 161px;
 	position: relative;
+	display: inline-block;
 
-}*/
+}
+.left1{
+	position: relative;
+	width: 361px;
+	display: inline-block;
+}
+.middle1{
+	position: relative;
+	width: 361px;
+	display: inline-block;
+
+}
+.right1{
+	position: relative;
+	width: 361px;
+	display: inline-block;
+
+}
+.covertext1{
+	position: absolute;
+	margin-top: 28px;
+	margin-left: 40px;
+}
