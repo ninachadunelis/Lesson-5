@@ -1,17 +1,17 @@
 .section-container-1{
 	width: 1160px;
 	margin: 0 auto;
-	margin-bottom: 40px;
+	margin-left: 140px;
 	margin-top: 25px;
 	background-color: #fcfafa;
-	position: relative;
+	
 
 }
 .header_logo{
 	display: inline-block;
 	width: 39px;
 	vertical-align: middle;
-	margin-right: 130px;
+	margin-right: 60px;
 	margin-left: 20px;
 }
 nav{
@@ -25,40 +25,125 @@ nav{
 }
 li{
 	display: inline-block;
-	margin: 30px;
+	margin: 20px;
 	vertical-align: middle;
 }
 
 /*//section 1*/
-.container1{
-	width: 1061px;
+.container{
+	width: 1160px;
 	height: 410px;
-
-}
-h2{
-	margin-top: 40px;
-}
-/*surati iqneba relativi da naweri ikneba absoluti*/
-/*magram surati araa daxuruli bloki, amitom mchirdeba gamaertianebeli tavisi klasit*/
-/*da am klass mivanicheb relativs da teqsti ikneba absoluti*/
-.box-right{
-	position: relative;
-	width: 360px;
-	display: inline-block;
+	margin: 30px auto 58px auto;
 	
 }
-.covertext{
-	position: absolute;
-	margin-top: 28px;
-	margin-left: 40px;
-	color: black;
-	font-size: 50;
-}
-.covertext1{
-	position: absolute;
-	margin-top: 245px;
-	margin-left: 40px;
-	color: black;
-		
+.title{
+	margin-bottom: 40px;
 }
 
+.left-box{
+	width: 360;
+	/*height: 350;*/
+	display: inline-block;
+	background:#ffffff ;
+
+}
+.lake{
+	width: 360px;
+	height: 180px;
+	position: relative;
+
+}
+.cover-text{
+	position: absolute;
+	color: #ffffff;
+	top: 28px;
+	left: 40px;
+	right: 40px;
+
+}
+
+.middle-box{
+	width: 360;
+	/*height: 350;*/
+	display: inline-block;
+	background:#ffffff ;
+	margin-left: 40px;
+	margin-right: 40px;
+
+}
+
+.right-box{
+	width: 360;
+	height: 350;
+	display: inline-block;
+	background:#ffffff ;
+}
+
+
+.cover-text2{
+	color: #A6ADB4;
+	line-height: 23px;
+	width: 280px;
+	height: 180px;
+	margin-left:40px;
+	margin-top: 40px;
+}
+/*section 2*/
+
+.container2{
+	width: 1160px;
+	height: 1054px;
+	margin: 0 auto;
+	margin-bottom: 140px;
+}
+.title2{
+	margin-top: 58px;
+	margin-bottom: 40px;
+	color: #202124;
+
+
+}
+.bridge{
+	width: 760px;
+	height: 430px;
+	margin-bottom: 40px;
+}
+.wood{
+	width: 760px;
+	height: 430px;
+}
+
+.ele{
+	width: 360px;
+	height: 210px;
+}
+.ele-absolute{
+	position: absolute;
+}
+.parrot{
+	width: 360px;
+	height: 210px;
+	margin-bottom: 102px;
+	margin-top: 102px;
+}
+.road{
+	width: 360px;
+	height: 210px;
+	margin-bottom: 64px;
+}
+.wraper1{
+	display: inline-block;
+	margin-right: 40px;
+}
+.wraper2{
+	display: inline-block;
+}
+.image-wraper1{
+	position: relative;
+}
+.image2-wraper1{
+	position: relative;
+}
+.bridge-absolute{
+	position: absolute;
+}
